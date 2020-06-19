@@ -48,7 +48,7 @@ public class FlamingNinjaStar {
 		//        Run the program again. Check the second picture in the recipe.
         
 		// LOOP   When you have one arm looking right, change your for loop to repeat 25 times.
-		for(int numbers
+		
 	}
 
 }
